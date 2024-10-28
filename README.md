@@ -1,0 +1,1 @@
+# camp-4.2-machinetest
